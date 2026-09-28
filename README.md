@@ -83,6 +83,3 @@ El script es de solo lectura y no modifica las configuraciones evaluadas.
 
 El proyecto sirve como práctica de PowerShell aplicada a seguridad informática. También permite relacionar la automatización con tareas de revisión y levantamiento de información de seguridad.
 
-## Licencia
-
-Proyecto académico y de práctica personal.
