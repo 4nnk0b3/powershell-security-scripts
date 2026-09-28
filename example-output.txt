@@ -1,0 +1,14 @@
+Windows Security Baseline Audit
+Generated: 2026-09-28 12:00:00
+Computer : DESKTOP-EXAMPLE
+
+Check                         Status   Details
+-----                         ------   -------
+Operating System              INFO     Microsoft Windows 11 Pro | Version 10.0.x | Build 26xxx
+Microsoft Defender            PASS     AntivirusEnabled=True; RealTimeProtectionEnabled=True; OnAccessProtectionEnabled=True
+Windows Firewall - Domain     PASS     Enabled=True
+Windows Firewall - Private    PASS     Enabled=True
+Windows Firewall - Public     PASS     Enabled=True
+Remote Desktop                PASS     Remote Desktop is disabled.
+SMBv1                         PASS     State=Disabled
+Local Administrators          INFO     DESKTOP-EXAMPLE\User
